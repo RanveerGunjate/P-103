@@ -1,0 +1,21 @@
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+
+
+body{
+    background-image:url("1234.jpg") ;
+    background-size: cover;
+    color: blue;
+}
+#camera{
+    border: 2px solid yellow;
+    width: 350px;
+    height: 300px;
+}
+
+#resultObjectName,#resultObjectAcurracy{
+    color: yellow;
+}
